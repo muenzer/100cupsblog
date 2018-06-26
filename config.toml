@@ -1,0 +1,4 @@
+baseurl = "blog.100cups100places.com"
+languageCode = "en-us"
+title = "100 Cups 100 Places"
+theme = "paper"
