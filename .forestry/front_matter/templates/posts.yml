@@ -19,6 +19,10 @@ fields:
 - type: boolean
   name: showonlyimage
   label: Show Only Image
+  default: false
+- type: tag_list
+  name: categories
+  label: Categories
 pages:
 - content/post/test.md
 - content/post/new-test.md
