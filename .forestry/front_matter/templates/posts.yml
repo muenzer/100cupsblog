@@ -12,3 +12,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: file
+  name: image
+  label: Image
+  hidden: false
+- type: boolean
+  name: showonlyimage
+  label: Show Only Image
