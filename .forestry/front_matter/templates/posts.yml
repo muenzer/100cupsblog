@@ -20,14 +20,6 @@ fields:
   name: showonlyimage
   label: Show Only Image
   default: false
-- type: list
-  name: categories
-  label: Categories
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: categories
 pages:
 - content/post/test.md
 - content/post/new-test.md
