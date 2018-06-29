@@ -13,5 +13,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/drink-of-the-week-.md
 - content/posts/third-post.md
 - content/posts/a-second-post.md
