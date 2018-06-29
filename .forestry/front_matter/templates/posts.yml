@@ -16,10 +16,6 @@ fields:
   name: image
   label: Image
   hidden: false
-- type: boolean
-  name: showonlyimage
-  label: Show Only Image
-  default: false
 pages:
 - content/post/test.md
 - content/post/new-test.md
