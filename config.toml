@@ -1,4 +1,4 @@
-#baseurl = "blog.100cups100places.com"
+baseurl = "http://blog.100cups100places.com.s3-website.eu-central-1.amazonaws.com/"
 languageCode = "en-us"
 title = "100 Cups 100 Places"
 theme = "hugo-theme-minos"
