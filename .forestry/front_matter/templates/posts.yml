@@ -20,4 +20,5 @@ fields:
   name: showonlyimage
   label: Show Only Image
 pages:
+- content/post/test.md
 - content/post/new-test.md
