@@ -13,4 +13,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/third-post.md
 - content/posts/a-second-post.md
