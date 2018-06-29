@@ -20,7 +20,7 @@ fields:
   name: showonlyimage
   label: Show Only Image
   default: false
-- type: tag_list
+- type: list
   name: categories
   label: Categories
 pages:
