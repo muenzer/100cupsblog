@@ -16,6 +16,9 @@ fields:
   name: image
   label: Image
   hidden: false
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - content/post/test.md
 - content/post/new-test.md
