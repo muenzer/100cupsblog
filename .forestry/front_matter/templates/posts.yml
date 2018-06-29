@@ -19,3 +19,5 @@ fields:
 - type: boolean
   name: showonlyimage
   label: Show Only Image
+pages:
+- content/post/new-test.md
