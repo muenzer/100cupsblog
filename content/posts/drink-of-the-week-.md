@@ -4,3 +4,6 @@ draft = true
 title = "Drink of the week!"
 
 +++
+Did you know that the Negroni is this summer's "official" drink?  Not sure who decided, but hey!  
+
+Here's to summer, sun and tastiness.  
