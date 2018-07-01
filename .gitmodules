@@ -9,4 +9,4 @@
 	url = https://github.com/carsonip/hugo-theme-minos
 [submodule "themes/hugo-nederburg-theme"]
 	path = themes/hugo-nederburg-theme
-	url = https://github.com/appernetic/hugo-nederburg-theme.git
+	url = https://github.com/muenzer/hugo-nederburg-theme.git

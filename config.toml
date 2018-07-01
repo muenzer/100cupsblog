@@ -2,3 +2,17 @@ baseurl = "http://blog.100cups100places.com.s3-website.eu-central-1.amazonaws.co
 languageCode = "en-us"
 title = "100 Cups 100 Places"
 theme = "hugo-nederburg-theme"
+
+# Nav links in the side bar
+[[menu.main]]
+name = "Home"
+url = "http://100cups100places.com"
+weight = 1
+
+[params.social]
+email         = "100cups100places@gmail.com"
+facebook      = "https://www.facebook.com/groups/1967226893288156/"
+twitter       = "https://twitter.com/cupsplaces"
+instagram     = "https://instagram.com/100cups100places"
+pinterest     = "https://www.pinterest.com/designedbyTRo"
+rss           = true
