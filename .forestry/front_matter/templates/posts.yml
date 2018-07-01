@@ -19,9 +19,11 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-- type: select
+- type: list
   name: categories
+  label: Categories
   config:
+    use_select: true
     source:
       type: simple
     options:
@@ -29,7 +31,6 @@ fields:
     - Design
     - Hydration
     - Outreach
-  label: Categories
 pages:
 - content/post/test.md
 - content/post/new-test.md
