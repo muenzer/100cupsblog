@@ -32,5 +32,6 @@ fields:
     - hydration
     - outreach
 pages:
+- content/post/hello-jello.md
 - content/post/test.md
 - content/post/new-test.md
