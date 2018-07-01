@@ -19,6 +19,17 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - Connections
+    - Design
+    - Hydration
+    - Outreach
+  label: Categories
 pages:
 - content/post/test.md
 - content/post/new-test.md
