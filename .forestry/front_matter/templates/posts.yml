@@ -27,10 +27,10 @@ fields:
     source:
       type: simple
     options:
-    - Connections
-    - Design
-    - Hydration
-    - Outreach
+    - connections
+    - design
+    - hydration
+    - outreach
 pages:
 - content/post/test.md
 - content/post/new-test.md
