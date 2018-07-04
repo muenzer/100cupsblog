@@ -7,9 +7,6 @@ sections:
 - path: content
   label: Pages
   create: all
-- path: content/post
-  label: Posts
-  create: all
 upload_dir: 100cups100places
 public_path: http://res.cloudinary.com/designedbytro/image/upload
 front_matter_path: ''
