@@ -9,6 +9,11 @@ name = "Home"
 url = "http://100cups100places.com"
 weight = 1
 
+[params]
+  copyright = [
+    "&copy; 2018 Meghan Howard"
+  ]
+
 [params.social]
 email         = "100cups100places@gmail.com"
 facebook      = "https://www.facebook.com/groups/1967226893288156/"
